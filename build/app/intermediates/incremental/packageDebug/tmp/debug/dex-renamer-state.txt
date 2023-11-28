@@ -1,0 +1,4 @@
+#Tue Nov 28 13:39:58 CET 2023
+base.0=/Users/devmediaworks/Desktop/tabbarimportant/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
