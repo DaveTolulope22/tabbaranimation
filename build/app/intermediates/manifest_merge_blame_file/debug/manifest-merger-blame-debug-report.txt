@@ -13,20 +13,20 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:3:1-63
-15-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:3:18-60
+15-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:3:1-63
+15-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:3:18-60
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:4:1-75
-16-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:4:18-72
+16-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:4:1-75
+16-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:4:18-72
 17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:5:1-75
-17-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:5:18-73
+17-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:5:1-75
+17-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:5:18-73
 18    <uses-permission android:name="android.permission.VIBRATE" />
-18-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:6:1-62
-18-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:6:18-59
+18-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:6:1-62
+18-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:6:18-59
 19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-19-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:7:1-76
-19-->/Users/devmediaworks/Desktop/tabbarimportant/android/app/src/main/AndroidManifest.xml:7:18-74
+19-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:7:1-76
+19-->/Users/devmediaworks/Desktop/GitHub/tabbaranimation/android/app/src/main/AndroidManifest.xml:7:18-74
 20
 21    <application
 22        android:name="android.app.Application"
@@ -69,13 +69,13 @@
 58            android:value="2" />
 59
 60        <activity
-60-->[:url_launcher_android] /Users/devmediaworks/Desktop/tabbarimportant/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
+60-->[:url_launcher_android] /Users/devmediaworks/Desktop/GitHub/tabbaranimation/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-13:74
 61            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-61-->[:url_launcher_android] /Users/devmediaworks/Desktop/tabbarimportant/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+61-->[:url_launcher_android] /Users/devmediaworks/Desktop/GitHub/tabbaranimation/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 62            android:exported="false"
-62-->[:url_launcher_android] /Users/devmediaworks/Desktop/tabbarimportant/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+62-->[:url_launcher_android] /Users/devmediaworks/Desktop/GitHub/tabbaranimation/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 63            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-63-->[:url_launcher_android] /Users/devmediaworks/Desktop/tabbarimportant/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
+63-->[:url_launcher_android] /Users/devmediaworks/Desktop/GitHub/tabbaranimation/build/url_launcher_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-71
 64
 65        <uses-library
 65-->[androidx.window:window:1.0.0-beta04] /Users/devmediaworks/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
